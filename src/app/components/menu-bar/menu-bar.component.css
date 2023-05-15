@@ -1,0 +1,16 @@
+.container-menuBar nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 20px;
+}
+
+.container-menuBar .menuBar-logo img {
+    width: 100px;
+}
+
+.container-menuBar nav ul {
+    display: flex;
+    justify-content: space-between;
+    width: 33%;
+}

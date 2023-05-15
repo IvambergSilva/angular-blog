@@ -1,0 +1,25 @@
+.container-smallCard {
+    width: 500px;
+    padding: 10px 10px 0;
+}
+
+.container-smallCard a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.smallCard-photo img {
+    width: 100%;
+}
+
+.smallCard-title {
+    margin-left: 10px;
+    text-align: center;
+}
+
+.container-smallCard hr {
+    color: #808080;
+    margin: 10px auto;
+    width: 95%;
+}

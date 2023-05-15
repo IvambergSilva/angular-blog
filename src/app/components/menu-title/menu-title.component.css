@@ -1,0 +1,11 @@
+.container-menuTitle h1 {
+    margin: 15px 0;
+    text-transform: uppercase;
+    text-align: center;
+    font: 700 80px 'Segoe UI', sans-serif;
+}
+
+.container-menuTitle hr {
+    margin: 5px 0;
+    border: 2px solid #FFF;
+}
