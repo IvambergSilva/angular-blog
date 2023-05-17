@@ -10,7 +10,8 @@
 }
 
 .smallCard-photo img {
-    width: 300px
+    width: 300px;
+    border-radius: 10px;
 }
 
 .smallCard-title {
